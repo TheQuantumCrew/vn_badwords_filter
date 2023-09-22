@@ -1,11 +1,15 @@
 ## Special thanks
 
-Special thanks to everyone in [this repository](https://github.com/Eris-182/vn-badwords) repository for badwords list
+Special thanks to everyone in [this repository](https://github.com/Eris-182/vn-badwords) for badwords list.
+If you want to add some bad words, please create a Pull Request.
 
 ## Features
 
-This package is developed to filter Bad Words in Vietnames 🇻🇳🇻🇳
-// Thư viện này dùng để lọc mấy từ bậy bạ chửi tục trong Tiếng Việt
+This package is developed to filter Bad Words in Vietnamese 🇻🇳🇻🇳
+```md
+Thư viện này dùng để lọc mấy từ bậy bạ chửi tục trong Tiếng Việt
+```
+
 
 ## Getting started
 
@@ -31,9 +35,9 @@ flutter pub get
 Support clean and check function
 
 ```dart
-  print(VNBadwordsFilter.isProfane("hello")); // false
-  print(VNBadwordsFilter.isProfane("vcl")); // true
-  print(VNBadwordsFilter.clean("hello vcl")); // hello ***
+print(VNBadwordsFilter.isProfane("hello")); // false
+print(VNBadwordsFilter.isProfane("vcl")); // true
+print(VNBadwordsFilter.clean("hello vcl")); // hello ***
 ```
 
 ## Road map
