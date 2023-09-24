@@ -1,3 +1,5 @@
+This library has been published in [pub.dev](https://pub.dev/packages/vn_badwords_filter)
+
 ## Special thanks
 
 Special thanks to everyone in [this repository](https://github.com/Eris-182/vn-badwords) for badwords list.
@@ -22,7 +24,7 @@ dart pub add vn_badwords_filter
 #### Or add specific version to ```pubspec.yaml``` file
 ```bash
 dependencies:
-    vn_badwords_filter: 1.0.0
+    vn_badwords_filter: 1.0.2
 ```
 
 Then run ```pub get```

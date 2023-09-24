@@ -1,6 +1,6 @@
 name: vn_badwords_filter
-description: A package to filter bad words in Vietnamese.
-version: 1.0.1
+description: A Dart package to filter and clean bad words in Vietnamese language.
+version: 1.0.2
 homepage: https://github.com/kreazyme/vn_badwords_filter
 
 environment:
